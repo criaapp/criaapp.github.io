@@ -746,3 +746,5 @@ tr.is-highlight > :last-child { box-shadow: 12px 0 var(--fill-tertiary); }
 .band img { width: 100%; height: clamp(240px, 40vw, 520px); object-fit: cover; border-radius: var(--r-xl); }
 .band figcaption { font-size: var(--size-caption); color: var(--text-secondary); padding: 10px 4px 0; }
 .is-portrait img { width: auto; max-width: 100%; height: clamp(320px, 48vw, 560px); }
+
+.cards .was{margin:0 0 2px;opacity:.65;font-size:.9em}.cards .was s{text-decoration-thickness:1.5px}.pill--promo{background:#e8f6ec;color:#17643a;font-weight:600}
